@@ -15,16 +15,16 @@ shadowsocks-libev-debian.sh
 
 
 Copyright (C) 2016 
-
+----------------------------------
 本脚本适用环境：
 系统支持：Debian/Ubuntu
 内存要求：≥128M
 日期：2015年08月01日
-
+----------------------------------
 关于本脚本：
 Debian 或 Ubuntu 下一键安装 libev 版的 shadowsocks 最新版本。该版本的特点是内存占用小（600k左右），使用 libev 和 C 编写，低 CPU 消耗，甚至可以安装在基于 OpenWRT 的路由器上。
 友情提示：如果你有问题，请先参考这篇《Shadowsocks Troubleshooting》后再问。
-
+----------------------------------
  
 
 默认配置：
